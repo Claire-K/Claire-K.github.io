@@ -1,6 +1,6 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: Rechercher
+excerpt: "Que recherchez-vous?"
 ---
 
 {% include site-search.html %}
