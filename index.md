@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Statenco
 feature_text: |
   ## Statenco
   Le site est en cours de création
