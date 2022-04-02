@@ -21,10 +21,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'statenco.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Statenco'
+description: 'Consulting en Statistiques Environnementales'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -34,16 +34,18 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Acceuil
   url: /
-- title: About
+- title: A Propos
   url: /about/
-- title: Blog
+- title: Expertise
+  url: /expertise/
+ - title: Le Blog
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Retour en haut
   url: "#top"
 
 # Collections
@@ -53,7 +55,7 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      Bienvenue sur le site de Statenco
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
