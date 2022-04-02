@@ -1,5 +1,5 @@
 ---
-title: About this website
+title:  Statenco - Consulting en Statistiques Environnementales
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Site en cours de création
