@@ -1,5 +1,5 @@
 ---
-title: StatEnCo
+title: 
 feature_text: |
   Qui sommes nous ?
 feature_image: "/assets/image1.jpg"
