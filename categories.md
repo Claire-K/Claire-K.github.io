@@ -1,8 +1,12 @@
 ---
-title: Categories
-excerpt: "Category index"
+title: 
+feature_text: |
+  Expertise
+feature_image: "/assets/image1.jpg"
+excerpt: "Expertise"
 aside: true
 ---
+
 
 
 ## Mise en place ou amélioration de vos suivis
