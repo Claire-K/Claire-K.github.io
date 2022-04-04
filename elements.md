@@ -7,7 +7,7 @@ excerpt: "Qui sommes nous ?"
 aside: true
 ---
 
-# L'équipe
+## L'équipe
 
 {% include figure.html image="/assets/photo_cv.png" caption="Claire Kermorvant" %}
 
@@ -18,7 +18,7 @@ Biostatisticienne de formation et passionnée par la donnée, j’ai aujourd’h
 Utilisatrice en routine du logiciel R en perpétuelle évolution, j’en connaît les moindres secrets, et me complaîs à apprendre les nouveaux. En plus de vous aider dans le processus de récolte de données, de leurs analyse et leurs visualisation, je serai très heureuse de vous former à utiliser R ou Excel. 
 
 
-# Nous contacter
+## Nous contacter
 
 {% include site-form.html %}
 
