@@ -15,7 +15,7 @@ Biostatisticienne de formation et passionnée par la donnée, j’ai aujourd’h
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/Claire-K/" color="#0366d6" %} {% include button.html text="Researchgate" link="https://www.researchgate.net/profile/Claire-Kermorvant" color="#f68140" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/KermorvantClai1" color="#0d94e7" %}
 
-Utilisatrice en routine du logiciel R en perpétuelle évolution, j’en connaît les moindres secrets, et me complaîs à apprendre les nouveaux. En plus de vous aider dans le processus de récolte de données, de leurs analyse et leurs visualisation, je serai très heureuse de vous former à utiliser R ou Excel. 
+Utilisatrice en routine du logiciel R en perpétuelle évolution, j’en connaîs les moindres secrets, et me complaîs à apprendre les nouveaux. En plus de vous aider dans le processus de récolte de données, de leurs analyses et leurs visualisations, je serais très heureuse de vous former à l'utilisation de R ou Excel. 
 
 
 ## Nous contacter
