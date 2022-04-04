@@ -9,7 +9,7 @@ aside: true
 
 # L'équipe
 
-{% include figure.html image="/assets/photo_cv.jpg" caption="Check out my photo" %}
+{% include figure.html image="/assets/photo_cv.jpg" caption="Claire Kermorvant" %}
 
 Biostatisticienne de formation et passionnée par la donnée, j’ai aujourd’hui choisi de vous proposer mes services au travers de StatEnCo. Mon master en écologie aquatique, ma thèse en mathématiques appliquées et mes expériences précédentes en tant que data-analyst m’ont permis d’acquérir de fortes compétences en échantillonnage de populations écologiques et analyses et de valorisations de données complexes (descriptives ou modélisation). Mes articles scientifiques et autres présentations sont disponibles sur mes réseaux sociaux. 
 
