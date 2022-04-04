@@ -2,7 +2,7 @@
 title: StatEnCo
 feature_text: |
   ## StatEnCo
-  Le site est en cours de création
+  Le site est en cours de création, merci de contacter claire@statenco.com pour tout renseignements
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "On arrive bientôt!"
 ---
