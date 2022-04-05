@@ -47,7 +47,8 @@ Du fait de notre utilisation quotidienne de R et Excel, StatEnCo possède les ca
   - Statistiques avec Excel,
   - Débuter avec R,
   - Analyses statistique simples avec R,
-  - Analyses statistiques spatio-temporelles complexes et modélisation avec R.
+  - Analyses statistiques spatio-temporelles complexes et modélisation avec R,
+  - Visualisation de vos données sous ggplot2.
 
 Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
