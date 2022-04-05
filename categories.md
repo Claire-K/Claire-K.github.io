@@ -1,7 +1,7 @@
 ---
 title:  Nos offres
 feature_text: |
-  ##Comment peut-on vous aider ?
+  # Comment peut-on vous aider ?
 feature_image: "/assets/image1.jpg"
 excerpt: "categories"
 aside: true
