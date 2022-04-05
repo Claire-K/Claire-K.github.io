@@ -1,7 +1,8 @@
 ---
 title: 
 feature_text: |
-  <big>Qui sommes nous ?</big>
+  # StatEnCo
+  ## Qui sommes nous ?
 feature_image: "/assets/image1.jpg"
 excerpt: "Qui sommes nous ?"
 aside: true
