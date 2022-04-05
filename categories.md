@@ -1,7 +1,7 @@
 ---
 title:  Nos offres
 feature_text: |
-  Comment peut-on vous aider ?
+  ##Comment peut-on vous aider ?
 feature_image: "/assets/image1.jpg"
 excerpt: "categories"
 aside: true
@@ -52,7 +52,7 @@ Du fait de notre utilisation quotidienne de R et Excel, StatEnCo possède les ca
 Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
 
-##...
+##(...)
 
 **Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?**
 
