@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "On arrive bientôt!"
 ---
 
-Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi? Vous avez des déjà données et aucune idée de quoi faire avec, de comment les utiliser pour répondre à vos problématiques? Le traitement de données, les analyses statistiques, la modélisation ... vous paraissent insurmontable ? Pas de panique, on est là pour vous aider!!
+Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi? Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel? Le traitement de données, les analyses statistiques, la modélisation ... vous paraissent insurmontables ? Pas de panique, on est là pour vous aider!!
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
