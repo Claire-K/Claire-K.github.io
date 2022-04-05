@@ -26,7 +26,7 @@ Nos experts sont quasiment les seuls en France à appliquer des méthodes d'éch
 
 **Tirez de vos données le meilleur d'elles-mêmes.**
 
-Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais **élaborer une problématique**, les **analyser**, les **modéliser** et **restituer l'information** peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle possède. 
+Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais **élaborer une problématique**, les **analyser**, les **modéliser** et **restituer l'information** peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
 
 Nous sommes spécialisés en analyse spatiales et temporelles. Nous faisons autant de l'analyse descriptive (Graphiques, ACP, AFC...) que de la modélisation statistique avancée (GAM, ARIMA ...) . 
 
@@ -51,6 +51,9 @@ Du fait de notre utilisation quotidienne de R et Excel, StatEnCo possède les ca
 
 Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
+*Pourquoi StatEnCo est-il le bon interlocuteur pour vos formations ?*
+
+Nos collaborateurs sont d'anciens enseignants-chercheurs, qui aiment transmettre leurs savoirs et savent s'adapter à un public varié. 
 
 ##(...)
 
