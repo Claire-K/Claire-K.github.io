@@ -2,6 +2,7 @@
 title: StatEnCo
 feature_text: |
   ## StatEnCo
+  # Consulting en Statistiques Environementales
   Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "On arrive bientôt!"
