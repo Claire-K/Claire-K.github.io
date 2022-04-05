@@ -32,3 +32,12 @@ Nous sommes spécialisés en analyse spatiales et temporelles. Nous faisons auta
 
 *A ce stade, et du fait de l'hétérogénéité des jeux de données que vous pouvez-être amenés à nous proposé, nous sommes dans l'incapacité de fournir un prix pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire avec vous une réponse optimisée ; au prix le plus juste possible.* 
 
+## Visualisation, valorisation 
+
+
+
+## Formations à R et à Excel
+
+
+
+
