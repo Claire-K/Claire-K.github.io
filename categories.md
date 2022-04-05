@@ -30,7 +30,7 @@ Analyser pour comprendre et prendre des décisions. Les données que vous avez s
 
 Nous sommes spécialisés en analyse spatiales et temporelles. Nous faisons autant de l'analyse descriptive - avec des outils de visualisation et valorisation puissants - que de la modélisation statistique avancée. 
 
-*A ce stade, et du fait de l'hétérogénéité des jeux de données que vous pouvez-être amenés à nous proposé, nous sommes dans l'incapacité de fournir un prix pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire avec vous une réponse optimisée ; au prix le plus juste possible.* 
+
 
 ## Visualisation, valorisation 
 
@@ -38,6 +38,17 @@ Nous sommes spécialisés en analyse spatiales et temporelles. Nous faisons auta
 
 ## Formations à R et à Excel
 
+**Débutants ou non, vous souhaitez vous former à Excel ou R ?**
+
+Du fait de notre utilisation quotidienne de R et Excel, StatEnCo possède les capacités pour vous aider à progresser sur ces logiciels. 
 
 
+##...
 
+**Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?**
+
+La liste de compétences n'est bien sûr pas exhaustive. Par exemple, nous pouvons vous aider à passer vos routines/macros Excel sur R ; à optimiser vos scripts R...
+N'hésitez pas à nous contacter pour toutes questions, nous vous répondrons avec plaisir.  
+
+
+*A ce stade, et du fait de l'hétérogénéité des jeux de données que vous pouvez-être amenés à nous proposer, nous sommes dans l'incapacité de fournir un devis pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire, avec vous, une réponse optimisée ; au prix le plus juste possible.* 
