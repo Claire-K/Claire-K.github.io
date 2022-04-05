@@ -4,7 +4,7 @@ feature_text: |
   # StatEnCo
   ## Qui sommes nous ?
 feature_image: "/assets/image1.jpg"
-excerpt: "Qui sommes nous ?"
+excerpt: ""
 aside: true
 ---
 
