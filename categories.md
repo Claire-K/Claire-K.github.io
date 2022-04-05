@@ -18,7 +18,7 @@ En nous appuyant sur votre expertise de la population d’intérêt et sur la pr
 
 *Pourquoi StatEnCo est-il le bon interlocuteur pour vos échantillonnages ?*
 
-Nos experts sont quasiment les seuls en France a appliquer des méthodes d'échantillonnage complexes, permettant de fournir des résultats plus précis avec moins de points de données à récolter. Cela vous premettra de produire des résultats précis pour vos études avec un coût de récolte minimum. 
+Nos experts sont quasiment les seuls en France à appliquer des méthodes d'échantillonnage complexes, permettant de fournir des résultats plus précis avec moins de points de données à récolter. Cela vous premettra de produire des résultats précis pour vos études avec un coût de récolte minimum. 
 
 
 
