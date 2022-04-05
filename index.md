@@ -13,9 +13,8 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
  - Mise en place ou amélioration de vos suivis,
  - **Analyse** et **modélisation** de vos données,
- - **Visualisation**,
+ - **Visualisation, valorisation**,
  - **Formation de vos équipes** à **R** et à **Excel**,  
- - Aide à la **valorisation** de vos données,
  - ...
 
 
