@@ -12,10 +12,10 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
- - Mise en place ou amélioration de vos suivis,
- - **Analyse** et **modélisation** de vos données,
+ - Suivis de populations écologiques,
+ - **Analyse** de données environnementales,
  - **Visualisation, valorisation**,
- - **Formation de vos équipes** à **R** et à **Excel**,  
+ - **Formations** à **R** et **Excel**,  
  - ...
 
 
