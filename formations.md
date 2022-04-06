@@ -21,6 +21,4 @@ aside: true
 
 Des formations sur mesure peuvent aussi être créées en fonction de vos besoins.
 
-*Pourquoi StatEnCo est-il le bon interlocuteur pour vos formations ?*
 
-Nos collaborateurs sont d'anciens enseignants-chercheurs, qui aiment transmettre leurs savoirs et savent s'adapter à un public varié. 
