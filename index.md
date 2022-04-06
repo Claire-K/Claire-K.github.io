@@ -5,10 +5,10 @@ feature_text: |
   # Consulting en Statistiques Environnementales
   Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "On arrive bientôt!"
+excerpt: "StatEnCo arrive bientôt!"
 ---
 
-Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi? Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel? Le traitement de données, les analyses statistiques, la modélisation ... vous paraissent insurmontables ? Pas de panique, on est là pour vous aider!!
+Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi ? Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel ? Le traitement de données, les analyses statistiques, la modélisation ... vous paraissent insurmontables ? Pas de panique, StatEnCo est là pour vous aider!!
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
