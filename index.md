@@ -19,7 +19,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
  - ...
 
 
-Rendez-vous dans l'onglet (Prestations[https://statenco.com/categories/] ou (Formations)[https://statenco.com/formations/] pour en savoir plus ! 
+Rendez-vous dans l'onglet (Prestations)[https://statenco.com/categories/] ou (Formations)[https://statenco.com/formations/] pour en savoir plus ! 
 
 
 
