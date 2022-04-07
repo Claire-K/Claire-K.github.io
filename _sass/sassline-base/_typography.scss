@@ -240,7 +240,7 @@ a {
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(theta, all);
+    @include fontsize(28, all);
 
     font-family: unquote(map-get($headingtype, font-family));
     font-style: normal;
@@ -252,14 +252,14 @@ a {
   }
 
   .caption {
-    @include baseline(theta, $headingtype, 2, 2, all);
+    @include baseline(28, $headingtype, 2, 2, all);
 
     color: $captionColour;
   }
 
   // Nice spacing for captions.
   h1 + .caption, .alpha + .caption, h2 + .caption, .beta + .caption, h3 + .caption, .gamma + .caption {
-    margin-top: -1rem;
+    margin-top: 0rem;
   }
 
   .delta + .caption, .epsilon + .caption, .zeta + .caption {
