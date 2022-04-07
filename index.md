@@ -19,7 +19,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
  - ...
 
 
-{% include figure.html image="/assets/badge_formation.svg" caption="caption" width="300" %}
+{% include figure.html image="/assets/badge_formation.svg" caption="caption" width="300" %}{% include figure.html image="/assets/badge_formation.svg" caption="caption1" width="300" %}{% include figure.html image="/assets/badge_formation.svg" caption="caption2" width="300" %}
 
 Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
 
