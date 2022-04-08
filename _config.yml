@@ -133,7 +133,7 @@ navigation_header:
 
 
 navigation_footer:
-- title: Created from Alembic theme by David Darnes
+- title: Created from Alembic theme by David Darnes Copyright (c) 2017 David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
