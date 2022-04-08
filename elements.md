@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   # StatEnCo
-  ## Qui sommes nous ?
+  ## <span style="color: black"> Qui sommes nous ? </span>
 feature_image: "/assets/image1.jpg"
 excerpt: ""
 aside: true
