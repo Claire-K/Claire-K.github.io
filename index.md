@@ -21,11 +21,12 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 {% include figure.html image="/assets/badge_formation.svg" caption=" [Formations](https://statenco.com/formations/) " width="300" %}
 
-
+<p align="center">
 
 [<img src="/assets/badge_formation.svg" width="300">](https://statenco.com/formations/)
-<p align="center">[Formations](https://statenco.com/formations/)</p>
-
+[Formations](https://statenco.com/formations/)
+  
+ </p>
 
 Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
 
