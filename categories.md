@@ -16,10 +16,6 @@ La mise en place d’un **suivi efficace** et qui renvoie des résultats permett
 
 En nous appuyant sur votre expertise de la population d’intérêt et sur la problématique de votre étude, nous vous aidons à définir le nombre de relevés qu’il vous faut effectuer, leur emplacement spatial et les mesures à effectuer. 
 
-*Pourquoi StatEnCo est-il le bon interlocuteur pour vos échantillonnages ?*
-
-Nos experts sont quasiment les seuls en France à appliquer des méthodes d'échantillonnage complexes, permettant de fournir des résultats plus précis avec moins de points de données à récolter. Cela vous permettra de produire des résultats précis pour vos études avec un coût de récolte minimum. Vous pouvez retrouvez la thèse de doctorat de notre expert échantillonnage [ici](http://www.theses.fr/2019PAUU3018).
-
 
 
 ## Analyse et modélisation de vos données
@@ -48,13 +44,12 @@ Du fait de notre utilisation quotidienne de R et Excel, StatEnCo possède les ca
   - Débuter avec R,
   - Analyses statistique simples avec R,
   - Analyses statistiques spatio-temporelles complexes et modélisation avec R,
-  - Visualisation de vos données sous ggplot2.
+  - Visualisation de vos données sous ggplot2,
+  - Automatisation d'analyses / rapports sous Rmarkdown.
 
 Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
-*Pourquoi StatEnCo est-il le bon interlocuteur pour vos formations ?*
 
-Nos collaborateurs sont d'anciens enseignants-chercheurs, qui aiment transmettre leurs savoirs et savent s'adapter à un public varié. 
 
 ##(...)
 
