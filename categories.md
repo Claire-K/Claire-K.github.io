@@ -1,5 +1,5 @@
 ---
-title:  Nos offres
+title: 
 feature_text: |
   # <span style="color: black"> Comment peut-on vous aider ? </span>
 feature_image: "/assets/image1.jpg"
