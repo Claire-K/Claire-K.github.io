@@ -1,7 +1,7 @@
 ---
 title: Formations à R et à Excel
 feature_text: |
-  # Vous souhaitez vous former ?
+  # <span style="color: black"> Vous souhaitez vous former ? </span> 
 feature_image: "/assets/image1.jpg"
 excerpt: "formations"
 aside: false
