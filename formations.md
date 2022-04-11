@@ -1,13 +1,11 @@
 ---
-title:  Formations
+title: Formations à R et à Excel
 feature_text: |
   # Vous souhaitez vous former ?
 feature_image: "/assets/image1.jpg"
 excerpt: "formations"
 aside: false
 ---
-
-## Formations à R et à Excel
 
 **Débutants ou non, vous souhaitez vous former à Excel ou R ?**
 
