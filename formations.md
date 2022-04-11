@@ -7,15 +7,14 @@ excerpt: "formations"
 aside: false
 ---
 
-**Débutants ou non, vous souhaitez vous former à Excel ou R ?**
-
- StatEnCo utilise quotidiennement les logiciels R et Excel, et peut vous aider à prendre en main ou à progresser sur avec logiciels. StatEnCo vous propose les formations suivantes : 
+ StatEnCo vous aide à prendre en main ou à progresser sur avec logiciels. Les formations suivantes vous sont proposées : 
   - Débuter avec Excel,
   - Statistiques avec Excel,
   - Débuter avec R,
   - Analyses statistique simples avec R,
   - Analyses statistiques spatio-temporelles complexes et modélisation avec R,
-  - Visualisation de vos données sous ggplot2.
+  - Visualisation de vos données sous ggplot2,
+  - Automatisez le traitement de vos données et vos rapports avec Rmarkdown.
 
 Des formations sur mesure peuvent aussi être créées en fonction de vos besoins.
 
