@@ -25,6 +25,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 <center>
 
 [<img src="/assets/badge_formation.svg" width="300">](https://statenco.com/formations/)
+  
 [Formations](https://statenco.com/formations/)
   
 </center>
