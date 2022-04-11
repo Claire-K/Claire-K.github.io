@@ -4,7 +4,7 @@ feature_text: |
   # Vous souhaitez vous former ?
 feature_image: "/assets/image1.jpg"
 excerpt: "formations"
-aside: true
+aside: false
 ---
 
 ## Formations à R et à Excel
