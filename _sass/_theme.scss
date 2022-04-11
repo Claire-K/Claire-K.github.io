@@ -19,7 +19,7 @@ body {
 .header,
 .footer {
   .nav {
-    text-align: right;
+    text-align: justify;
   }
   .logo {
     @include flex(0 0 auto);
@@ -137,7 +137,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 80%;
+    width: 90%;
   }
 }
 
