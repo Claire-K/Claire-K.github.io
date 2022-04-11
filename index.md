@@ -19,7 +19,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
  - ...
 
 
- blalalalalalal  lanezifhezf ,flkzjeojaze:f, nzkenfapozf:ae;f,oh {% include figure.html image="/assets/badge_analyses.svg" caption="Analyses de données" width="300" %}
+ blalalalalalal  lanezifhezf ,flkzjeojaze:f, nzkenfapozf:ae;f,oh {% include figure.html image="/assets/badge_analyses.svg" caption="Analyses de données" width="300" % position="left"}
 
 {% include figure.html image="/assets/badge_formation.svg" caption="caption1" width="300" %}
 
