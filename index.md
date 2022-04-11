@@ -21,7 +21,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 {% include figure.html image="/assets/badge_formation.svg" caption=" [Formations](https://statenco.com/formations/) " width="300" %}
 
-![Formationsss](/assets/badge_formation.svg)
+
 
 [<img src="/assets/badge_formation.svg" width="300">](https://statenco.com/formations/)
 <p align="center">[Formations](https://statenco.com/formations/)</p>
