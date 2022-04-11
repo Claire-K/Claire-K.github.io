@@ -23,7 +23,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 {% include figure.html image="/assets/badge_analyses.svg" caption="Analyses de données" width="300" %}
 
-{% include figure.html image="/assets/badge_formation.svg" caption="Suivis environnementaux" width="300" %}
+{% include figure.html image="/assets/badge_ech.svg" caption="Suivis environnementaux" width="300" %}
 
 [{% include figure.html image="/assets/badge_formation.svg" caption="Formations" width="300" %}](https://statenco.com/formations/)
 
