@@ -21,11 +21,12 @@ Chez StatEnCo, notre spécialité c'est la donnée!
  - ...
 
 
- blalalalalalal  lanezifhezf ,flkzjeojaze:f, nzkenfapozf:ae;f,oh {% include figure.html image="/assets/badge_analyses.svg" caption="Analyses de données" width="300" % position="left"}
+{% include figure.html image="/assets/badge_analyses.svg" caption="Analyses de données" width="300" %}
 
-{% include figure.html image="/assets/badge_formation.svg" caption="caption1" width="300" %}
+{% include figure.html image="/assets/badge_formation.svg" caption="Suivis environnementaux" width="300" %}
 
-{% include figure.html image="/assets/badge_formation.svg" caption="caption2" width="300" %}
+[{% include figure.html image="/assets/badge_formation.svg" caption="Formations" width="300" %}](https://statenco.com/formations/)
+
 
 Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
 
