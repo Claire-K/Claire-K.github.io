@@ -8,6 +8,8 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "StatEnCo arrive bientôt!"
 ---
 
+StatEnCo est une entreprise basée au Pays Basque. Elle propose un accompagnement pour la mise en place et/ou le bon déroulement de vos études statistiques. Ses objectifs principaux sont de vous aider à aquérir une **validité statistique** lors de vos suivis, à **valoriser** vos jeux de données et à vous aider à **former vos équipes**.
+
 Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi ? Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel ? Le traitement de données, les analyses statistiques, la modélisation ... vous paraissent insurmontables ? Pas de panique, StatEnCo est là pour vous aider!!
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
