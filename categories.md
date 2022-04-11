@@ -53,8 +53,8 @@ Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
 ## Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?
 
-La liste de compétences n'est bien sûr pas exhaustive. Par exemple, nous pouvons vous aider à passer vos routines/macros Excel sur R ; à optimiser vos scripts R...
+La liste de compétences n'est bien sûr pas exhaustive. Par exemple, StatEnCo peut passer vos routines/macros Excel sur R ; optimiser vos scripts R...
 N'hésitez pas à nous contacter pour toutes questions, nous vous répondrons avec plaisir.  
 
 
-*A ce stade, et du fait de l'hétérogénéité des jeux de données et des problématiques que vous pouvez-être amenés à nous soumettre, StatEnCo est dans l'incapacité de fournir un devis pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire, avec vous, une réponse optimisée ; au prix le plus juste possible.* 
+**A ce stade, et du fait de l'hétérogénéité des jeux de données et des problématiques que vous pouvez-être amenés à nous soumettre, StatEnCo est dans l'incapacité de fournir un devis pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire, avec vous, une réponse optimisée ; au prix le plus juste possible.** 
