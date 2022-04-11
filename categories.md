@@ -1,7 +1,7 @@
 ---
 title:  Nos offres
 feature_text: |
-  # Comment peut-on vous aider ?
+  # <span style="color: black"> Comment peut-on vous aider ? </span>
 feature_image: "/assets/image1.jpg"
 excerpt: "categories"
 aside: false
