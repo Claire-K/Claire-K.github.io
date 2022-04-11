@@ -24,7 +24,7 @@ En nous appuyant sur votre expertise de la population d’intérêt et sur la pr
 
 Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais **élaborer une problématique**, les **analyser**, les **modéliser** et **restituer l'information** peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
 
-Nous sommes spécialisés en analyse spatiales et temporelles. Nous faisons autant de l'analyse descriptive (Graphiques, ACP, AFC...) que de la modélisation statistique avancée (GAM, ARIMA ...) . 
+StatEnCo peut vous aider pour vos analyse spatiales et temporelles ; que ce soit pour de l'analyse descriptive (Graphiques, ACP, AFC...) ou de la modélisation statistique avancée (GAM, ARIMA ...) . 
 
 
 
@@ -32,7 +32,7 @@ Nous sommes spécialisés en analyse spatiales et temporelles. Nous faisons auta
 
 **Communiquez sur vos résultats**
 
-
+création de rapports automatisés - 
 
 ## Formations à R et à Excel
 
@@ -51,9 +51,7 @@ Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
 
 
-##(...)
-
-**Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?**
+## Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?
 
 La liste de compétences n'est bien sûr pas exhaustive. Par exemple, nous pouvons vous aider à passer vos routines/macros Excel sur R ; à optimiser vos scripts R...
 N'hésitez pas à nous contacter pour toutes questions, nous vous répondrons avec plaisir.  
