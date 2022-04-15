@@ -14,15 +14,16 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-<h1 align="center">
 
+**Analyses de données**
 [![Analyses de données](/assets/badge_analyses.svg)](https://statenco.com/categories/)
+
 
 [![Suivis environnementaux](/assets/badge_ech.svg)](https://statenco.com/categories/)
 
 [![Formations](/assets/badge_formation.svg)](https://statenco.com/formations/)
 
-</h1>
+
 
 Rendez-vous dans les onglets [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
 
