@@ -20,7 +20,7 @@ body {
 .header,
 .footer {
   .nav {
-    text-align: center;
+    text-align: justify;
   }
   .logo {
     @include flex(0 0 auto);
@@ -38,6 +38,7 @@ body {
 
 .header .nav {
   display: flex;
+  text-align: center;
   flex-direction: column-reverse;
   align-items: flex-end;
   justify-content: flex-end;
