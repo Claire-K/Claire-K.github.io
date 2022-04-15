@@ -9,7 +9,7 @@ aside: false
 
 ## Mise en place ou amélioration de vos suivis
 
-**Collectez les données adéquates et préparez vos analyses.**
+**Collectez les données adéquates et préparez vos analyses !**
 
 La mise en place d’un **suivi efficace** et qui renvoie des résultats permettant de répondre à la problématique ciblée n’est jamais chose aisée. La théorie de l’échantillonnage est une branche entière des statistiques, et, pour certifier que les données récoltées pourront être utilisées pour des analyses statistiques, il est préférable de faire appel à un **biostatisticien**. 
 
@@ -19,7 +19,7 @@ En nous appuyant sur votre expertise de la population d’intérêt et sur la pr
 
 ## Analyse et modélisation de vos données
 
-**Tirez de vos données le meilleur d'elles-mêmes.**
+**Tirez de vos données le meilleur d'elles-mêmes !**
 
 Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais **élaborer une problématique**, les **analyser**, les **modéliser** et **restituer l'information** peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
 
@@ -29,7 +29,7 @@ StatEnCo peut vous aider pour vos analyse spatiales et temporelles ; que ce soit
 
 ## Visualisation, valorisation 
 
-**Communiquez sur vos résultats**
+**Communiquez sur vos résultats !**
 
 création de rapports automatisés - 
 
