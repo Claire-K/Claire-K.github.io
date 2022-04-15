@@ -1,6 +1,7 @@
 ---
+title: Nos prestations 
 feature_text: |
-  # <span style="color: black"> Comment peut-on vous aider ? </span>
+  # <span style="color: black"> StatEnCo </span>
 feature_image: "/assets/image1.jpg"
 excerpt: "categories"
 aside: false
