@@ -15,7 +15,7 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
 
-          **Analyses de données**
+\hspace{3cm} **Analyses de données**
 
           [![](/assets/badge_analyses.svg)](https://statenco.com/categories/)
 
