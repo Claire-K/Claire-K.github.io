@@ -20,7 +20,7 @@ body {
 .header,
 .footer {
   .nav {
-    text-align: justify;
+    text-align: center;
   }
   .logo {
     @include flex(0 0 auto);
