@@ -49,8 +49,8 @@ Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en 
   **Formations**
 </a>
 
-StatEnCo vous accompagne pour vos formations sur Excel et sur R.
-<br>
+StatEnCo vous accompagne pour vos formations sur Excel et sur R.<br>
+
 Prise en main, statistiques, visualisation, reporting ... <br>
 
 Rendez-vous à l'onglet [Formations](https://statenco.com/formations/) pour en savoir plus !
