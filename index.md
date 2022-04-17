@@ -15,6 +15,8 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
+<a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt=""></a>
+
 <p align="center" width="100%">
   <a href="https://statenco.com/categories/" id="assets/badge_analyses.svg">Your logo</a>  
   [Analyses de données](https://statenco.com/categories/)
