@@ -27,7 +27,7 @@ Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphi
 Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus !
 <br>
 
-<a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ec.svg">
+<a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ech.svg">
   
   **Suivis de populations écologiques**
 </a>
