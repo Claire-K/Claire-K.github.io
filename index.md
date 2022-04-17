@@ -16,7 +16,7 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
 
-<span style="text-align: center;"> 
+<span style="text-align: center"> 
 
 **Analyses de données**
 
