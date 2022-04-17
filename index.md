@@ -26,7 +26,9 @@ StatEnCo analyse vos données environnementales et vous aide à en tirer le plus
 
 Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
-<p>
+.<br>
+
+
 <a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ech.svg">
   **Suivis de populations écologiques**
 </a>
@@ -37,10 +39,10 @@ StatEnCo vous aide à mettre en place vos suivis de populations écologiques. <b
 
 Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
-</p>
+.<br>
 
 
-<p> 
+
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
   **Formations**
 </a>
@@ -51,7 +53,7 @@ StatEnCo vous accompagne pour vos formations sur Excel et sur R.<br>
 
 Rendez-vous à l'onglet [Formations](https://statenco.com/formations/) pour en savoir plus !
 <br>
-</p>
+
 
 
   
