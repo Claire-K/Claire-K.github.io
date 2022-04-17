@@ -15,7 +15,7 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-32% width each (perfect size to just barely fit all 3 images side-by-side):
+
 <p align="center" width="100%">
     <img width="32%" src="/assets/badge_analyses.svg" href="https://statenco.com/categories/">
     <img width="32%" src="/assets/badge_ech.svg">
