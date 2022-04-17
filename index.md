@@ -18,14 +18,20 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 Analyses           Ech              formation
 
-
 <p align="center" width="100%">
-  <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a" caption="Analyses">
+  <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a" caption="Analyses"></a>
   <a href="https://statenco.com/categories/"><img src="assets/badge_ech.svg" alt=""></a>
   <a href="https://statenco.com/formations/"><img src="assets/badge_formation.svg" alt=""></a>
 </p>
+  
 
 
+  
+<img align="right" width="33%" src="assets/badge_formation.svg">
+balendziefnazkejfglizeufazekf yjev'(x ztdqf
+  
+  
+  
 Rendez-vous dans les onglets [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
 
 
