@@ -19,7 +19,11 @@ Chez StatEnCo, notre spécialité c'est la donnée!
   Analyses de données   
 </div>
 
-  
+<p align="center" width="100%">
+    <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
+</p>
+
+
 [![](/assets/badge_analyses.svg)](https://statenco.com/categories/)
 
 <div align="center">
