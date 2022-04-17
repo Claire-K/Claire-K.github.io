@@ -1,11 +1,12 @@
 ---
-title: Formations à R et à Excel
+title: Vous souhaitez vous former à R et/ou à Excel ?
 feature_text: |
-  # <span style="color: black"> Vous souhaitez vous former ? </span> 
+# <span style="color: black"> StatEnCo </span> ## <span style="color: black"> Formations </span> 
 feature_image: "/assets/image1.jpg"
 excerpt: "formations"
 aside: false
 ---
+
 
  StatEnCo vous aide à prendre en main ou à progresser sur avec logiciels. Les formations suivantes vous sont proposées : 
   - Débuter avec Excel,
