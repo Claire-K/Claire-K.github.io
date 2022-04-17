@@ -17,7 +17,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 32% width each (perfect size to just barely fit all 3 images side-by-side):
 <p align="center" width="100%">
-    <img width="32%" src="/assets/badge_analyses.svg">
+    <img width="32%" src="/assets/badge_analyses.svg" href="https://statenco.com/categories/">
     <img width="32%" src="/assets/badge_ech.svg">
     <img width="32%" src="/assets/badge_formation.svg">
 </p>
@@ -29,17 +29,6 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 [![](/assets/badge_analyses.svg)](https://statenco.com/categories/)
 
-<div align="center">
-  Suivis environnementaux  
-</div>
-
-[![](/assets/badge_ech.svg)](https://statenco.com/categories/)
-
-<div align="center">
-  Formations  
-</div>
-
-[![](/assets/badge_formation.svg)](https://statenco.com/formations/)
 
 
 
