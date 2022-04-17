@@ -15,16 +15,14 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-<div align="left">
-  Analyses de données   
-</div>
+32% width each (perfect size to just barely fit all 3 images side-by-side):
+<p align="center" width="100%">
+    <img width="32%" src="/assets/badge_analyses.svg">
+    <img width="32%" src="/assets/badge_ech.svg">
+    <img width="32%" src="/assets/badge_formation.svg">
+</p>
 
-<p align="center" width="100%">
-    <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
-</p>
-<p align="center" width="100%">
-    <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
-</p>
+
 <p align="right" width="100%">
     <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
 </p>
