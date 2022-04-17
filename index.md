@@ -17,7 +17,6 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_analyses.svg">
   **Analyse de données environnementales**
-  
 </a>
 
 StatEnCo analyse vos données environnementales et vous aide à en tirer le plus d'information possible.
@@ -30,7 +29,6 @@ Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en 
 <p>
 <a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ech.svg">
   **Suivis de populations écologiques**
-  
 </a>
 
 StatEnCo vous aide à mettre en place vos suivis de populations écologiques. <br>
