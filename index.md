@@ -20,6 +20,8 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 **Analyses de données**
 
+</span>
+  
 [![](/assets/badge_analyses.svg)](https://statenco.com/categories/)
 
 
@@ -27,7 +29,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 [![Formations](/assets/badge_formation.svg)](https://statenco.com/formations/)
 
-</span>
+
 
 
 Rendez-vous dans les onglets [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
