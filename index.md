@@ -19,7 +19,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
   **Analyses de données environnementales**
 </a>
 
-StatEnCo analyse vos données environnementales et vous aide à en tirer le plus d'information possible.
+StatEnCo analyse vos données environnementales.
 
 *Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphiques...), modélisation (GLM, GAM...)...* 
 
