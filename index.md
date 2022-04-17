@@ -15,10 +15,10 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-<a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_analyses.svg">
+<a href="https://statenco.com/formations/"><img align="right" width="40%" src="assets/badge_analyses.svg">
   **Analyses de données environnementales**
 </a>
-<hr>
+
 StatEnCo analyse vos données environnementales et vous aide à en tirer le plus d'information possible.
 
 *Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphiques...), modélisation (GLM, GAM...)...* 
@@ -28,7 +28,7 @@ Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour e
 <hr>
 
 
-<a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ech.svg">
+<a href="https://statenco.com/formations/"><img align="left" width="40%" src="assets/badge_ech.svg">
   **Suivis de populations écologiques**
 </a>
 
@@ -41,7 +41,7 @@ Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour e
 <hr>
 
 
-<a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
+<a href="https://statenco.com/formations/"><img align="right" width="40%" src="assets/badge_formation.svg">
   **Formations**
 </a>
 
