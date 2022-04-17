@@ -15,14 +15,19 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-<div align="center">
+<div align="left">
   Analyses de données   
 </div>
 
 <p align="center" width="100%">
     <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
 </p>
-
+<p align="center" width="100%">
+    <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
+</p>
+<p align="right" width="100%">
+    <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
+</p>
 
 [![](/assets/badge_analyses.svg)](https://statenco.com/categories/)
 
