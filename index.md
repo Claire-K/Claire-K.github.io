@@ -4,7 +4,7 @@ feature_text: |
   # <span style="color: black"> StatEnCo </span>
   ## <span style="color: black"> Consulting en Statistiques Environnementales </span>
   Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements
-feature_image: /assets/image.JPG
+feature_image: /assets/image2.png
 excerpt: "StatEnCo arrive bientôt!"
 ---
 
