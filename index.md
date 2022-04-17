@@ -43,7 +43,7 @@ Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en 
 </p>
 
 
-  
+<p> 
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
   
   **Formations**
@@ -55,7 +55,7 @@ Prise en main, statistiques, visualisation, reporting ... <br>
 
 Rendez-vous à l'onglet [Formations](https://statenco.com/formations/) pour en savoir plus !
 <br>
-
+</p>
 
 
   
