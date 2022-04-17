@@ -15,6 +15,12 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
+<p align="center" width="100%">
+  <a href="https://statenco.com/categories/" id="assets/badge_analyses.svg">Your logo</a>  
+  [Analyses de données](https://statenco.com/categories/)
+    Suivis écologiques
+    Formations
+</p>
 
 <p align="center" width="100%">
     <img width="32%" src="/assets/badge_analyses.svg" href="https://statenco.com/categories/">
