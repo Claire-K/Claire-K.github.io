@@ -28,11 +28,10 @@ Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour e
 <hr>
 
 
-
 <a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ech.svg">
   **Suivis de populations écologiques**
 </a>
-<hr>
+
 StatEnCo vous aide à mettre en place vos suivis de populations écologiques. 
 
 *Mise en place de la procédure d'échantillonnage, choix du nombre de relevés, tirage des unitées d'échantillonnage ...* 
@@ -45,7 +44,7 @@ Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour e
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
   **Formations**
 </a>
-<hr>
+
 StatEnCo vous accompagne pour vos formations sur Excel et sur R.
 
 *Prise en main, statistiques, visualisation, reporting ...* 
