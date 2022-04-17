@@ -18,10 +18,9 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt=""></a>
 
 <p align="center" width="100%">
-  <a href="https://statenco.com/categories/" id="assets/badge_analyses.svg">Your logo</a>  
-  [Analyses de données](https://statenco.com/categories/)
-    Suivis écologiques
-    Formations
+  <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a"></a> 
+  <a href="https://statenco.com/categories/"><img src="assets/badge_ech.svg" alt=""></a>
+  <a href="https://statenco.com/formations/"><img src="assets/badge_formation.svg" alt=""></a>
 </p>
 
 <p align="center" width="100%">
