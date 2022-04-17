@@ -23,11 +23,13 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
   
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
+  
   **Formations**
 </a>
 
 StatEnCo vous accompagne pour vos formations sur Excel et sur R.
 <br>
+
 Rendez-vous à l'onglet [Formations](https://statenco.com/formations/) pour en savoir plus !
 <br>
 
