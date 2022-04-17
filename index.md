@@ -27,7 +27,7 @@ StatEnCo analyse vos données environnementales et vous aide à en tirer le plus
 Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
 <hr>
-<hr>
+
 
 
 <a href="https://statenco.com/formations/"><img align="left" width="33%" src="assets/badge_ech.svg">
@@ -42,8 +42,6 @@ StatEnCo vous aide à mettre en place vos suivis de populations écologiques. <b
 Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
 <hr>
-<hr>
-
 
 
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
@@ -58,7 +56,7 @@ Rendez-vous à l'onglet [Formations](https://statenco.com/formations/) pour en s
 
 
 <hr>
-<hr>
+
 
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/Claire-K" color="#0366d6" %} {% include button.html text="ResearchGate" link="https://www.researchgate.net/profile/Claire-Kermorvant" color="#f68140" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/KermorvantClai1" color="#0d94e7" %} 
