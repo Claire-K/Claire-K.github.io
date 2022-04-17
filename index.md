@@ -23,7 +23,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
   
 <a href="https://statenco.com/formations/"><img align="right" width="33%" src="assets/badge_formation.svg">
-  **Formations**
+  # Formations
 </a>
 
 StatEnCo vous accompagne nfbkhz nqflkjazefn ezfnl zkejf zefknaizefh
