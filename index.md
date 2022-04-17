@@ -16,16 +16,16 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
 <p align="center" width="100%">
-  analyses
+  Analyses
   ech
   formation
 </p>
+
 <p align="center" width="100%">
-  <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a">
+  <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a" caption="Analyses">
   <a href="https://statenco.com/categories/"><img src="assets/badge_ech.svg" alt=""></a>
   <a href="https://statenco.com/formations/"><img src="assets/badge_formation.svg" alt=""></a>
 </p>
-
 
 
 Rendez-vous dans les onglets [Prestations](https://statenco.com/categories/) ou [Formations](https://statenco.com/formations/) pour en savoir plus ! 
