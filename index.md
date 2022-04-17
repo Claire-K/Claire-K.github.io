@@ -15,11 +15,9 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-<p align="center" width="100%">
-  Analyses
-  ech
-  formation
-</p>
+
+Analyses           Ech              formation
+
 
 <p align="center" width="100%">
   <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a" caption="Analyses">
