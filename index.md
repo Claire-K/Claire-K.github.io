@@ -15,28 +15,12 @@ Vous avez une problématique mais ne savez pas où/quand/comment/combien de rele
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
-<a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt=""></a>
 
 <p align="center" width="100%">
-  <a href="https://statenco.com/categories/"><img src="assets/badge_analyses.svg" alt="a"></a> 
-  <a href="https://statenco.com/categories/"><img src="assets/badge_ech.svg" alt=""></a>
-  <a href="https://statenco.com/formations/"><img src="assets/badge_formation.svg" alt=""></a>
+  <a href="https://statenco.com/categories/"><img width="32%" src="assets/badge_analyses.svg" alt="a"><figcaption>Analyses</figcaption></a> 
+  <a href="https://statenco.com/categories/"><img width="32%" src="assets/badge_ech.svg" alt=""></a>
+  <a href="https://statenco.com/formations/"><img width="32%" src="assets/badge_formation.svg" alt=""></a>
 </p>
-
-<p align="center" width="100%">
-    <img width="32%" src="/assets/badge_analyses.svg" href="https://statenco.com/categories/">
-    <img width="32%" src="/assets/badge_ech.svg">
-    <img width="32%" src="/assets/badge_formation.svg">
-</p>
-
-
-<p align="right" width="100%">
-    <img width="33%" src="/assets/badge_analyses.svg" link="https://statenco.com/categories/">
-</p>
-
-[![](/assets/badge_analyses.svg)](https://statenco.com/categories/)
-
-
 
 
 
