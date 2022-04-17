@@ -23,7 +23,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 StatEnCo analyse vos données environnementales et vous aide à en tirer le plus d'information possible.
 <br>
 
-Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphiques...), modélisation (GLM, GAM...)... <br>
+*Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphiques...), modélisation (GLM, GAM...)...* <br>
 
 Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
@@ -35,8 +35,7 @@ Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en 
 
 StatEnCo vous aide à mettre en place vos suivis de populations écologiques. <br>
 
-
-Mise en place de la procédure d'échantillonnage, choix du nombre de relevés, tirage des unitées d'échantillonnage ... <br>
+*Mise en place de la procédure d'échantillonnage, choix du nombre de relevés, tirage des unitées d'échantillonnage ...* <br>
 
 Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
@@ -50,7 +49,7 @@ Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en 
 
 StatEnCo vous accompagne pour vos formations sur Excel et sur R.<br>
 
-Prise en main, statistiques, visualisation, reporting ... <br>
+*Prise en main, statistiques, visualisation, reporting ...* <br>
 
 Rendez-vous à l'onglet [Formations](https://statenco.com/formations/) pour en savoir plus !
 <br>
