@@ -35,20 +35,6 @@ StatEnCo peut vous aider pour vos analyse spatiales et temporelles ; que ce soit
 
 création de rapports automatisés - 
 
-## Formations à R et à Excel
-
-**Débutants ou non, vous souhaitez vous former à Excel ou R ?**
-
-Du fait de notre utilisation quotidienne de R et Excel, StatEnCo possède les capacités pour vous aider à progresser sur ces logiciels. Nous vous proposons les formations suivantes : 
-  - Débuter avec Excel,
-  - Statistiques avec Excel,
-  - Débuter avec R,
-  - Analyses statistique simples avec R,
-  - Analyses statistiques spatio-temporelles complexes et modélisation avec R,
-  - Visualisation de vos données sous ggplot2,
-  - Automatisation d'analyses / rapports sous Rmarkdown.
-
-Nous pouvons aussi créer des formations sur mesure en fonction de vos besoins.
 
 
 
