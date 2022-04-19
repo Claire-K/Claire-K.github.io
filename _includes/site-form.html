@@ -18,18 +18,18 @@
 >
   <fieldset class="fieldset  form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
-    <label class="label" for="name--{{ name_id }}">Nom: <span class="required">*</span></label>
+    <label class="label" for="name--{{ name_id }}">Nom : <span class="required">*</span></label>
     <input class="input" id="name--{{ name_id }}" type="text" name="Nom" value="" placeholder="Votre Nom" required="required" />
 
-    <label class="label" for="email--{{ name_id }}">Adresse email: <span class="required">*</span></label>
+    <label class="label" for="email--{{ name_id }}">Adresse email : <span class="required">*</span></label>
     <input class="input" id="email--{{ name_id }}" type="email" name="email" value="" placeholder="email@website.com" required="required" />
 
-    <label class="label" for="message--{{ name_id }}">Message: <span class="required">*</span></label>
+    <label class="label" for="message--{{ name_id }}">Message : <span class="required">*</span></label>
     <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Votre message..." required="required"></textarea>
 
     <input class="button" type="submit" value="Envoyer le message" />
     <br/>
-    <small class="small"><span class="required">*</span> indicates a required field</small>
+    <small class="small"><span class="required">*</span> indique un champ obligatoire</small>
 
     {% if include.netlify_form %}
       <label  style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
