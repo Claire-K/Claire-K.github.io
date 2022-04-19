@@ -14,11 +14,11 @@ StatEnCo vous aide à prendre en main ou à progresser sur R ou Excel. Les forma
   - Débuter avec Excel,
   - Statistiques avec Excel,
   - Débuter avec R,
-  - Analysez vos données avec R (1) : statistique simples ,
+  - Analysez vos données avec R (1) : statistique simples,
   - Analysez vos données avec R (2) : statistiques spatio-temporelles complexes et modélisation,
   - Visualisez vos données sous ggplot2,
   - Automatisez le traitement de vos données et vos rapports avec Rmarkdown.
 
-Des formations sur mesure peuvent aussi être créées en fonction de vos besoins, n'hésitez pas à nous contacter à l'adresse claire@statenco.com.
+Des formations sur mesure peuvent aussi être créées en fonction de vos besoins, n'hésitez pas à écrire à l'adresse claire@statenco.com.
 
 
