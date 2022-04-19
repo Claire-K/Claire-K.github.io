@@ -1,5 +1,5 @@
 ---
-title: 
+title: ## L'équipe
 feature_text: |
   # <span style="color: black"> StatEnCo </span>
   ## <span style="color: black"> Qui sommes nous ? </span>
@@ -8,7 +8,6 @@ excerpt: ""
 aside: true
 ---
 
-## L'équipe
 
 {% include figure.html image="/assets/photo_cv.png" caption="Claire Kermorvant" width="300" %}
 
