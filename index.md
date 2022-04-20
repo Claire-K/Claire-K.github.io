@@ -2,7 +2,7 @@
 title: StatEnCo
 feature_text: |
   # <span style="color: black"> StatEnCo </span>
-  ## <span style="color: black"> Consulting en Statistiques Environnementales </span>
+  ## <span style="color: black"> Conseil en Statistiques Environnementales </span>
 feature_image: /assets/image2.png
 excerpt: "StatEnCo arrive bientôt!"
 ---
