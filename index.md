@@ -21,7 +21,7 @@ Chez StatEnCo, notre spécialité c'est la donnée!
 
 StatEnCo analyse vos données environnementales.
 
-*Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphiques...), modélisation (GLM, GAM...)...* 
+*Tests statistiques (ANOVA - Student...), statistiques descriptives (ACP - graphiques...), modélisation (SDM, GLM, GAM...)...* 
 
 Rendez-vous dans l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
