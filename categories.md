@@ -25,7 +25,7 @@ En nous appuyant sur votre expertise de la population d’intérêt et sur la pr
 
 Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais **élaborer une problématique**, les **analyser**, les **modéliser** et **restituer l'information** peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
 
-StatEnCo peut vous aider pour vos analyse spatiales et temporelles ; que ce soit pour de l'analyse descriptive (Graphiques, ACP, AFC...) ou de la modélisation statistique avancée (GAM, ARIMA ...) . 
+StatEnCo peut vous aider pour vos analyse spatiales et temporelles ; que ce soit pour de l'analyse descriptive (Graphiques, ACP, AFC...) ou de la modélisation statistique avancée (GAM, ARIMA, SDM ...). 
 
 
 
@@ -33,9 +33,9 @@ StatEnCo peut vous aider pour vos analyse spatiales et temporelles ; que ce soit
 
 **Communiquez sur vos résultats !**
 
-création de rapports automatisés - 
+Que ce soit dans vos rapports, présentations ou communications, la **DataViz**, ou la visualisation de données, est LA pratique qui vous permettra de mettre en avant vos résultats. StatEnCo résume vos données sur les graphiques statistisues, prêts à être imprimés, ou sur des dashboard dynamiques.
 
-
+StatEnCo valorise vos données sous forme de rapport automatisé, reproductible et facile à actualiser en cas de modification des données.
 
 
 ## Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?
