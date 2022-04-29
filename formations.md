@@ -7,7 +7,7 @@ excerpt: "formations"
 aside: false
 ---
 
-Que vous soyez débutants ou que vous ayez déjà utilisateurs, StatEnCo vous propose des formations adaptées à votre niveau et à vos besoin.
+Que vous soyez <span style="color: #05bf85">débutants</span> ou que vous ayez déjà <span style="color: #05bf85">utilisateurs</span>, StatEnCo vous propose des formations adaptées à votre niveau et à vos besoin.
 
 StatEnCo vous aide à prendre en main ou à progresser sur R ou Excel. Les formations suivantes vous sont proposées : 
   - Débuter avec Excel,
