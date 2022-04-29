@@ -3,7 +3,7 @@ title: Vous souhaitez vous former ?
 feature_text: |
   # <span style="color: black"> StatEnCo </span>
   ## <span style="color: black"> Formations </span>
-feature_image: "/assets/image1.jpg"
+feature_image: "/assets/image4.jpg"
 excerpt: "formations"
 aside: false
 ---
