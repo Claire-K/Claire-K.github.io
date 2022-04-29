@@ -128,8 +128,8 @@ navigation_header:
   url: /formations/
 - title: A propos
   url: /elements/
-- title: Le Blog
-  url: /blog/
+#- title: Le Blog
+#  url: /blog/
 
 
 navigation_footer:
