@@ -13,7 +13,7 @@ aside: false
 
 **Collectez les données adéquates et préparez vos analyses !**
 
-La mise en place d’un **suivi efficace** et qui renvoie des résultats permettant de répondre à la problématique ciblée n’est jamais chose aisée. La théorie de l’échantillonnage est une branche entière des statistiques, et, pour certifier que les données récoltées pourront être utilisées pour des analyses statistiques, il est préférable de faire appel à un **biostatisticien**. 
+La mise en place d’un <span style="color: #05bf85">**suivi efficace**</span> et qui renvoie des résultats permettant de répondre à la problématique ciblée n’est jamais chose aisée. La théorie de l’échantillonnage est une branche entière des statistiques, et, pour certifier que les données récoltées pourront être utilisées pour des analyses statistiques, il est préférable de faire appel à un <span style="color: #05bf85">**biostatisticien**</span>. 
 
 En nous appuyant sur votre expertise de la population d’intérêt et sur la problématique de votre étude, StatEnCo vous aide à définir le nombre de relevés qu’il vous faut, leur emplacement spatial et les mesures à effectuer. 
 
@@ -22,9 +22,9 @@ En nous appuyant sur votre expertise de la population d’intérêt et sur la pr
 
 **Tirez de vos données le meilleur d'elles-mêmes !**
 
-Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais **élaborer une problématique**, les **analyser**, les **modéliser** et **restituer l'information** peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
+Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais <span style="color: #05bf85">**élaborer une problématique**</span>, les <span style="color: #05bf85">**analyser**</span>, les <span style="color: #05bf85">**modéliser**</span> et <span style="color: #05bf85">**restituer l'information**</span> peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
 
-StatEnCo vous aide pour vos analyse spatiales et temporelles ; que ce soit pour de l'analyse descriptive (Graphiques, ACP, AFC...) ou de la modélisation statistique avancée (GAM, ARIMA, SDM ...). 
+StatEnCo vous aide pour vos analyses spatiales et temporelles ; que ce soit pour de la description (Graphiques, ACP, AFC...) ou de la modélisation statistique avancée (GAM, ARIMA, SDM ...). 
 
 
 
@@ -32,9 +32,9 @@ StatEnCo vous aide pour vos analyse spatiales et temporelles ; que ce soit pour 
 
 **Communiquez sur vos résultats !**
 
-Que ce soit dans vos rapports, présentations ou communications, la **DataViz**, ou la visualisation de données, est LA pratique qui vous permettra de mettre en avant vos résultats. StatEnCo résume vos données sur les graphiques statistisues, prêts à être imprimés, ou sur des dashboard dynamiques.
+Que ce soit dans vos rapports, présentations ou communications, la <span style="color: #05bf85">**DataViz**</span>, ou la visualisation de données, est LA pratique qui vous permettra de mettre en avant vos résultats. StatEnCo résume vos données sur des graphiques statistiques, prêts à être imprimés, ou sur des dashboard dynamiques, prêts à être publiés.
 
-StatEnCo valorise vos données sous forme de rapport automatisé, reproductible et facile à actualiser en cas de modification des données.
+StatEnCo valorise vos données sous forme de rapports automatisés, reproductibles et facile à actualiser en cas de modifications des données.
 
 
 ## Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?
