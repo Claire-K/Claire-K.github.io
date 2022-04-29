@@ -42,4 +42,4 @@ StatEnCo valorise vos données sous forme de rapports automatisés, reproductibl
 La liste de compétences n'est bien sûr pas exhaustive. N'hésitez pas à nous contacter pour toutes questions, nous vous répondrons avec plaisir.  
 
 
-<span style="color: #05bf85"> style="color: #05bf85">**A ce stade, et du fait de l'hétérogénéité des jeux de données et des problématiques que vous pouvez-être amenés à nous soumettre, StatEnCo est dans l'incapacité de fournir un devis pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire, avec vous, une réponse optimisée ; au prix le plus juste possible.**</span> 
+<span style="color: #05bf85">**A ce stade, et du fait de l'hétérogénéité des jeux de données et des problématiques que vous pouvez-être amenés à soumettre, StatEnCo est dans l'incapacité de fournir un devis pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire, avec vous, une réponse optimisée ; au prix le plus juste possible.**</span> 
