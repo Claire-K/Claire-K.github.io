@@ -9,9 +9,9 @@ excerpt: "StatEnCo arrive bientôt!"
 
 **Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements**
 
-StatEnCo est une entreprise à double expertise statistiques-environnement, basée au Pays Basque. Elle propose un accompagnement pour la mise en place et/ou le bon déroulement d'analyses de données environnementales, mais aussi pour la formation de vos équipes à l'utilisation de Excel et R. Ses objectifs principaux sont de vous aider à aquérir une <span style="color: #05bf85">**validité statistique**</span> lors de vos études, à <span style="color: #05bf85">**valoriser**</span> vos jeux de données et à <span style="color: #05bf85">**former vos équipes**</span>.
+StatEnCo est une entreprise indépendante à double expertise statistiques-environnement, basée au Pays Basque. Elle propose un accompagnement pour la mise en place et/ou le bon déroulement d'analyses de données environnementales, mais aussi pour la formation de vos équipes à l'utilisation de Excel et R. Ses objectifs principaux sont de vous aider à aquérir une <span style="color: #05bf85">**validité statistique**</span> lors de vos études, à <span style="color: #05bf85">**valoriser**</span> vos jeux de données et à <span style="color: #05bf85">**former vos équipes**</span>.
 
-Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi ? Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel ? Le traitement de données, les analyses statistiques, la modélisation ... vous paraissent insurmontables ? Pas de panique, StatEnCo est là pour vous aider!!
+Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi ? Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel ? Le traitement de données, les analyses statistiques, la modélisation... vous paraissent insurmontables ? Pas de panique, StatEnCo est là pour vous aider!!
 
 Chez StatEnCo, notre spécialité c'est la donnée! 
 
