@@ -3,7 +3,7 @@ title: ## L'équipe
 feature_text: |
   # <span style="color: black"> StatEnCo </span>
   ## <span style="color: black"> Qui sommes nous ? </span>
-feature_image: "/assets/image2.jpg"
+feature_image: "/assets/image2.png"
 excerpt: ""
 aside: true
 ---
