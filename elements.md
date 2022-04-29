@@ -1,8 +1,7 @@
 ---
-title: ## L'équipe
+title: L'équipe
 feature_text: |
-  # <span style="color: black"> StatEnCo </span>
-  ## <span style="color: black"> À propos </span>
+
 feature_image: "/assets/image2.png"
 excerpt: ""
 aside: false
