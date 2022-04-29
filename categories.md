@@ -18,7 +18,6 @@ La mise en place d’un **suivi efficace** et qui renvoie des résultats permett
 En nous appuyant sur votre expertise de la population d’intérêt et sur la problématique de votre étude, nous vous aidons à définir le nombre de relevés qu’il vous faut effectuer, leur emplacement spatial et les mesures à effectuer. 
 
 
-
 ## Analyse et modélisation de vos données
 
 **Tirez de vos données le meilleur d'elles-mêmes !**
@@ -40,8 +39,7 @@ StatEnCo valorise vos données sous forme de rapport automatisé, reproductible 
 
 ## Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?
 
-La liste de compétences n'est bien sûr pas exhaustive. Par exemple, StatEnCo peut passer vos routines/macros Excel sur R ; optimiser vos scripts R...
-N'hésitez pas à nous contacter pour toutes questions, nous vous répondrons avec plaisir.  
+La liste de compétences n'est bien sûr pas exhaustive. N'hésitez pas à nous contacter pour toutes questions, nous vous répondrons avec plaisir.  
 
 
 **A ce stade, et du fait de l'hétérogénéité des jeux de données et des problématiques que vous pouvez-être amenés à nous soumettre, StatEnCo est dans l'incapacité de fournir un devis pour votre projet. Ce n'est qu'à partir d'un examen approfondi de vos projets que nous pourrons construire, avec vous, une réponse optimisée ; au prix le plus juste possible.** 
