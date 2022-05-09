@@ -32,9 +32,9 @@ StatEnCo vous aide pour vos analyses spatiales et temporelles ; que ce soit pour
 
 **Communiquez sur vos résultats !**
 
-Que ce soit dans vos rapports, présentations ou communications, la <span style="color: #05bf85">**DataViz**</span>, ou la visualisation de données, est LA pratique qui vous permettra de mettre en avant vos résultats. StatEnCo résume vos données sur des graphiques statistiques, prêts à être imprimés, ou sur des dashboard dynamiques, prêts à être publiés.
+Que ce soit dans vos rapports, présentations ou communications, la <span style="color: #05bf85">**DataViz**</span> (=la visualisation de données), est LA pratique qui vous permettra de mettre en avant vos résultats. StatEnCo résume vos données sur des graphiques statistiques, prêts à être imprimés, ou sur des dashboard dynamiques, prêts à être publiés en ligne.
 
-StatEnCo valorise vos données sous forme de rapports automatisés, reproductibles et facile à actualiser en cas de modifications des données.
+StatEnCo valorise vos données sous forme de rapports automatisés, reproductibles et faciles à actualiser en cas de modifications des données.
 
 
 ## Vous ne retrouvez pas vos besoins dans l'offre ci-dessus ?
