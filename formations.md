@@ -1,9 +1,9 @@
 ---
-title: Vous souhaitez vous former ?
+title: Formations
 feature_text: |
 
 feature_image: "/assets/image4.jpg"
-excerpt: "formations"
+excerpt: "Formations"
 aside: false
 ---
 
