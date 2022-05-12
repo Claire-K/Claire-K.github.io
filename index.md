@@ -4,16 +4,16 @@ feature_text: |
   # <span style="color: #05bf85"> StatEnCo </span>
   ## <span style="color: #05bf85"> Conseil en Statistiques Environnementales </span>
 feature_image: /assets/image4.jpg
-excerpt: "StatEnCo arrive bientôt!"
+excerpt: "StatEnCo arrive bientôt !"
 ---
 
-**Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements**
+**Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements.**
 
 StatEnCo est une entreprise indépendante à double expertise statistiques-environnement, basée au Pays Basque. Elle propose un accompagnement pour l'analyse de données environnementales, l'échantillonnage de vos données, mais aussi pour la formation de vos équipes à l'utilisation de Excel et R. Ses objectifs principaux sont de vous aider à aquérir une <span style="color: #05bf85">**validité statistique**</span> lors de vos études, à <span style="color: #05bf85">**valoriser**</span> vos jeux de données et à <span style="color: #05bf85">**former vos équipes**</span>.
 
-Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel ? Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi ?  Le traitement de données, les analyses statistiques, la modélisation... vous paraissent insurmontables ? Pas de panique, StatEnCo est là pour vous aider!!
+Vous avez des données et aucune idée sur la façon de valoriser et exploiter leur potentiel ? Vous avez une problématique mais ne savez pas où/quand/comment/combien de relevés vous devez faire pour votre suivi ?  Le traitement de données, les analyses statistiques, la modélisation... vous paraissent insurmontables ? Pas de panique, StatEnCo est là pour vous aider !
 
-Chez StatEnCo, notre spécialité c'est la donnée! 
+Chez StatEnCo, notre spécialité c'est la donnée ! 
 
 <a href="https://statenco.com/formations/"><img align="right" width="40%" src="assets/badge_analyses.svg">
   **Analyses de données environnementales**
