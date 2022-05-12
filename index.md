@@ -34,7 +34,7 @@ Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en 
 
 StatEnCo vous aide à mettre en place vos suivis de populations écologiques. 
 
-*Mise en place de la procédure d'échantillonnage, choix du nombre de relevés, tirage des unitées d'échantillonnage ...* 
+*Mise en place de la procédure d'échantillonnage, choix du nombre de relevés, tirage des unités d'échantillonnage ...* 
 
 Rendez-vous à l'onglet [Prestations](https://statenco.com/categories/) pour en savoir plus ! <br>
 
