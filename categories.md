@@ -24,7 +24,7 @@ En nous appuyant sur votre expertise de la population d’intérêt et sur la pr
 
 Analyser pour comprendre et prendre des décisions. Les données que vous avez sont précieuses... mais <span style="color: #05bf85">**élaborer une problématique**</span>, les <span style="color: #05bf85">**analyser**</span>, les <span style="color: #05bf85">**modéliser**</span> et <span style="color: #05bf85">**restituer l'information**</span> peut rapidement s'avérer complexe. Chez StatEnCo, on aime la donnée ! On aime la triturer et l'analyser pour extraire l'information qu'elle referme. 
 
-StatEnCo vous aide pour vos analyses spatiales et temporelles ; que ce soit pour de la description (Graphiques, ACP, AFC...) ou de la modélisation statistique avancée (GAM, ARIMA, SDM ...). 
+StatEnCo vous aide pour vos analyses spatiales et temporelles ; que ce soit pour de la description (Graphiques, Analyse en composante principale (ACP), analyse factorielle des correspondances (AFC) ...) ou de la modélisation statistique avancée (Modèles additifs généralisés (GAM), modèles auto-régréssifs (ARIMA), modèles de distribution d'espèces (SDM) ...). 
 
 
 
