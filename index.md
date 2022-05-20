@@ -4,7 +4,6 @@ feature_text: |
   # <span style="color: #000000"> StatEnCo </span>
   ## <span style="color: #000000"> Conseil en Statistiques Environnementales </span>
 feature_image: /assets/image5.jpg
-excerpt: "StatEnCo arrive bientôt !"
 ---
 
 **Le site est en cours de création, merci de contacter claire@statenco.com pour tous renseignements.**
